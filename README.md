@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a-janssen
+- 👋 Hi, I’m @a-janssen Alina Janssen, a PhD student from Berlin, Germany
 - 👀 I’m interested in reptiles and evidence based conservation methods
 - 🌱 I’m currently learning Spatial R and HREs
 
